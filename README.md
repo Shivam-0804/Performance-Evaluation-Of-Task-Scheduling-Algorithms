@@ -8,7 +8,7 @@
 An AI-enhanced metaheuristic task scheduling simulator designed to map dynamic computational workloads onto heterogeneous virtual resources. Built using a modern **React-TypeScript-Tailwind** web stack, this platform evaluates, visualizes, and benchmarks advanced optimization heuristics under varying multi-objective performance constraints.
 
 🔗 **Repository Link:** [https://github.com/Shivam-0804/Performance-Evaluation-Of-Task-Scheduling-Algorithms.git](https://github.com/Shivam-0804/Performance-Evaluation-Of-Task-Scheduling-Algorithms.git)
-
+🔗 **Demo Link:** [https://performance-evaluation-of-task-sche.vercel.app/](https://performance-evaluation-of-task-sche.vercel.app/)
 ---
 
 ## 📸 System Previews
