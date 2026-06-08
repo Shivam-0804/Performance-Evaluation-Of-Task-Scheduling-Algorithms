@@ -15,19 +15,19 @@ An AI-enhanced metaheuristic task scheduling simulator designed to map dynamic c
 
 ### 1. Operational Overview & Analytics Dashboard
 Monitor node cluster telemetry, active queue allocations, and computational capacity metrics in real-time.
-![System Deployment Dashboard](https://raw.githubusercontent.com/Shivam-0804/Performance-Evaluation-Of-Task-Scheduling-Algorithms/main/image_a2edd0.png)
+![System Deployment Dashboard](https://github.com/Shivam-0804/Performance-Evaluation-Of-Task-Scheduling-Algorithms/blob/df29a555f902d886406d6600f9cbce8d06cf585a/assets/image1.png)
 
 ### 2. Workload Schema & Queue Control
 Import external configurations, handle high-burst traffic simulation, and manage task complexities dynamically.
-![Workload Schema Control](https://raw.githubusercontent.com/Shivam-0804/Performance-Evaluation-Of-Task-Scheduling-Algorithms/main/image_a2eae5.png)
+![Workload Schema Control](https://github.com/Shivam-0804/Performance-Evaluation-Of-Task-Scheduling-Algorithms/blob/df29a555f902d886406d6600f9cbce8d06cf585a/assets/image2.png)
 
 ### 3. Comparative Gantt Allocation Timeline
 Review and visualize concurrent schedule mapping across virtual machine nodes for different metaheuristic models.
-![Comparative Gantt Charts](https://raw.githubusercontent.com/Shivam-0804/Performance-Evaluation-Of-Task-Scheduling-Algorithms/main/image_a2ea6b.png)
+![Comparative Gantt Charts](https://github.com/Shivam-0804/Performance-Evaluation-Of-Task-Scheduling-Algorithms/blob/df29a555f902d886406d6600f9cbce8d06cf585a/assets/image3.png)
 
 ### 4. AI Strategy Engine & Heuristic Intelligence
 Utilize entropy mapping and heuristic forecasting to discover the perfect optimization approach for your workload structures.
-![AI Recommendation Engine](https://raw.githubusercontent.com/Shivam-0804/Performance-Evaluation-Of-Task-Scheduling-Algorithms/main/image_a2ea30.png)
+![AI Recommendation Engine](https://github.com/Shivam-0804/Performance-Evaluation-Of-Task-Scheduling-Algorithms/blob/df29a555f902d886406d6600f9cbce8d06cf585a/assets/image4.png)
 
 ---
 
