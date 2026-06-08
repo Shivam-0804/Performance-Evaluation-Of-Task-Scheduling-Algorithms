@@ -1,0 +1,6 @@
+{
+  "name": "Task Scheduler",
+  "description": "A research-grade cloud task scheduling simulator comparing GA, PSO, ACO, and Hybrid algorithms with AI-driven performance insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
