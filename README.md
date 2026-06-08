@@ -10,7 +10,7 @@ An AI-enhanced metaheuristic task scheduling simulator designed to map dynamic c
 🔗 **Repository Link:** [https://github.com/Shivam-0804/Performance-Evaluation-Of-Task-Scheduling-Algorithms.git](https://github.com/Shivam-0804/Performance-Evaluation-Of-Task-Scheduling-Algorithms.git)
 
 ---
-🌐 **Live Demo Link:** [https://performance-evaluation-of-task-scheduling.vercel.app/](https://performance-evaluation-of-task-scheduling.vercel.app/)
+🌐 **Live Demo Link:** [https://performance-evaluation-of-task-sche.vercel.app/](https://performance-evaluation-of-task-sche.vercel.app/)
 ## 📸 System Previews
 
 ### 1. Operational Overview & Analytics Dashboard
